@@ -9,7 +9,7 @@ I'm a Junior Data Analyst passionate about turning data into insights. I special
 - GitHub
 
 ## Projects:
-- Cyclistic:[link-to-project](https://sites.google.com/view/daverlashley/cyclistic-project): A data-driven marketing plan that converts casual riders into annual members
+- Cyclistic: [link-to-project](https://sites.google.com/view/daverlashley/cyclistic-project): A data-driven marketing plan that converts casual riders into annual members
 
 ## Contact:
 - Email: [d.lashley.strategy@gmail.com](mailto:d.lashley.strategy@gmail.com)
