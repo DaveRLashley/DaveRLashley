@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! I'm Dave R Lashley
+I'm a Junior Data Analyst passionate about turning data into insights. I specialize in Python, SQL, and Data Visualization.
 
-<!--
-**DaveRLashley/DaveRLashley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Tools:
+- R
+- SQL (BigQuery)
+- Data Visualization (Tableau, Powerpoint)
+- Data Analysis (Excel, Pivot Tables, Google Sheets)
+- GitHub
 
-Here are some ideas to get you started:
+## Projects:
+- [Cyclistic]([link-to-project](https://sites.google.com/view/daverlashley/cyclistic-project): A data-driven marketing plan that converts casual riders into annual members
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact:
+- Email: [d.lashley.strategy@gmail.com](mailto:d.lashley.strategy@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/davelashley/)
