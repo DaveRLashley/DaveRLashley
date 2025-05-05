@@ -1,5 +1,5 @@
 # Hello! I'm Dave R Lashley
-I'm a Junior Data Analyst passionate about turning data into insights. I specialize in Python, SQL, and Data Visualization.
+I'm a Junior Data Analyst passionate about turning data into insights. I specialize in SQL, Excel and Data Visualization.
 
 ## Skills & Tools:
 - R
