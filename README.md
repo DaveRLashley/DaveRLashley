@@ -3,8 +3,8 @@ I'm a Junior Data Analyst passionate about turning data into insights. I special
 
 ## Skills & Tools:
 - ![Static Badge](https://img.shields.io/badge/R-red)
-- ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/BigQuery-blue) #669DF6
-- Data Visualization ![Static Badge](https://img.shields.io/badge/R-red) ![Static Badge](https://img.shields.io/badge/Powerpoint-yellow)
+- ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/BigQuery-blue)
+- Data Visualization![Static Badge](https://img.shields.io/badge/Tableau-yellow) ![Static Badge](https://img.shields.io/badge/Powerpoint-yellow)
 - Data Analysis ![Static Badge](https://img.shields.io/badge/Excel-Green) ![Static Badge](https://img.shields.io/badge/Pivot%20Tables-Green) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Green)
 - GitHub
 
