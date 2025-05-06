@@ -2,10 +2,10 @@
 I'm a Junior Data Analyst passionate about turning data into insights. I specialize in SQL, Excel and Data Visualization.
 
 ## Skills & Tools:
-- R
-- SQL (BigQuery)
-- Data Visualization (Tableau, Powerpoint)
-- Data Analysis (Excel, Pivot Tables, Google Sheets)
+- ![Static Badge](https://img.shields.io/badge/R-red)
+- ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/BigQuery-blue) #669DF6
+- Data Visualization ![Static Badge](https://img.shields.io/badge/R-red) ![Static Badge](https://img.shields.io/badge/Powerpoint-yellow)
+- Data Analysis ![Static Badge](https://img.shields.io/badge/Excel-Green) ![Static Badge](https://img.shields.io/badge/Pivot%20Tables-Green) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Green)
 - GitHub
 
 ## Projects:
@@ -14,3 +14,6 @@ I'm a Junior Data Analyst passionate about turning data into insights. I special
 ## Contact:
 - Email: [d.lashley.strategy@gmail.com](mailto:d.lashley.strategy@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/davelashley/)
+
+
+![GitHub followers](https://img.shields.io/github/followers/daverlashley?style=for-the-badge&logo=github)
