@@ -2,9 +2,9 @@
 I'm a Junior Data Analyst passionate about turning data into insights. I specialize in SQL, Excel and Data Visualization.
 
 ## Skills & Tools:
-- Programming ![Static Badge](https://img.shields.io/badge/R-blue) ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/BigQuery-blue)
-- Visualization ![Static Badge](https://img.shields.io/badge/Tableau-yellow) ![Static Badge](https://img.shields.io/badge/Powerpoint-yellow)
-- Analysis ![Static Badge](https://img.shields.io/badge/Excel-Green) ![Static Badge](https://img.shields.io/badge/Pivot%20Tables-Green) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Green)
+- Programming: ![Static Badge](https://img.shields.io/badge/R-blue) ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/BigQuery-blue)
+- Visualization: ![Static Badge](https://img.shields.io/badge/Tableau-yellow) ![Static Badge](https://img.shields.io/badge/Powerpoint-yellow)
+- Analysis: ![Static Badge](https://img.shields.io/badge/Excel-Green) ![Static Badge](https://img.shields.io/badge/Pivot%20Tables-Green) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Green)
 
 ## Projects:
 - Cyclistic: [link-to-project](https://sites.google.com/view/daverlashley/cyclistic-project): A data-driven marketing plan that converts casual riders into annual members.
