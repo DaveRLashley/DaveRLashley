@@ -9,6 +9,7 @@ I'm a Junior Data Analyst passionate about turning data into insights. I special
 ## Projects:
 - Cyclistic: [View Project](https://sites.google.com/view/daverlashley/cyclistic-project): A data-driven marketing plan that converts casual riders into annual members.
 - WWE Match Analysis: [View Project](https://github.com/DaveRLashley/wwe-match-analysis): A critical review that highlights the importance of validating data accuracy before drawing insights.
+- Video Game Sales Breakdown: [View Project](https://github.com/DaveRLashley/Video-Game-Sales-Breakdown) – A Tableau dashboard that visualizes global video game sales by genre, platform, and region using cleaned historical sales data.
 
 ## Resume:
 - [Dave R. Lashley Resume](https://github.com/DaveRLashley/Resume/blob/main/Dave%20R%20Lashley%20Resume-2025_Data.pdf)
