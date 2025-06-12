@@ -50,6 +50,5 @@ I most recently built **[TrendPulse](httpshttps://github.com/DaveRLashley/TrendP
 ### 🏆 My Projects
 
 * **⭐ TrendPulse (Featured Project):** [**View Project**](https://github.com/DaveRLashley/TrendPulse-Fixed) – An AI-powered SaaS application built to analyze social media trends and generate optimized content strategies for creators using the OpenAI API, React, and TypeScript.
-* **Cyclistic:** View Project: A data-driven marketing plan that converts casual riders into annual members.
-* **WWE Match Analysis:** View Project: A critical review that highlights the importance of validating data accuracy before drawing insights.
-* **Video Game Sales Breakdown:** View Project – A Tableau dashboard that visualizes global video game sales by genre, platform, and region using cleaned historical sales data.
+
+* **📊 Video Game Sales Breakdown:** [**View Project**](https://github.com/DaveRLashley/Video-Game-Sales-Breakdown) – A Tableau dashboard that visualizes global video game sales by genre, platform, and region using cleaned historical sales data.
