@@ -1,4 +1,4 @@
-### Hi there, I'm Dave Lashley 👋
+### Hi there, I'm Dave R. Lashley 👋
 
 I'm a developer and strategist passionate about building AI-powered products that solve real-world problems. My work sits at the intersection of data analysis, content strategy, and artificial intelligence.
 
